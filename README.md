@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and CI/CD with Github Actions.**
 
-- 👯 I’m looking to collaborate on **Any open-source projects and free-lance (paying projects).**
+- 👯 I’m looking to collaborate on **Any open-source projects and interesting projects (ask me :D).**
 
 - 🤝 I’m looking for help with **Mentorship and/or advice on taking my skillset to the next level.**
 
