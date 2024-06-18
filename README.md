@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any open-source projects and interesting projects (ask me :D).**
 
-- 🤝 I’m looking for help with **Mentorship and/or advice on taking my skillset to the next level.**
+- 🤝 I’m looking for help with **Finding opportunities that will take my skillset to the next level.**
 
 - 💬 Ask me about **Docker, Kubernetes, Apache Kafka and Microservices.**
 
