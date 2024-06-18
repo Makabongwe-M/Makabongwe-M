@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mthunzi.makabongwe@gmail.com**
 
-- ⚡ Fun fact **I love a good laugh! I am a guitar player and would love to learn photography..**
+- ⚡ Fun fact **I love a good laugh! I am a guitar player and I am learning photography.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
