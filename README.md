@@ -3,19 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makabongwe-m&label=Profile%20views&color=0e75b6&style=flat" alt="makabongwe-m" /> </p>
 
-- 🔭 I’m currently working on **A YOLO project. I have built the API and am working on the front-end.**
-
-- 🌱 I’m currently learning **Flutter and CI/CD with Github Actions.**
-
-- 👯 I’m looking to collaborate on **Any open-source projects and interesting projects (ask me :D).**
-
-- 🤝 I’m looking for help with **Finding opportunities that will take my skillset to the next level.**
-
-- 💬 Ask me about **Docker, Kubernetes, Apache Kafka and Microservices.**
-
 - 📫 How to reach me **mthunzi.makabongwe@gmail.com**
-
-- ⚡ Fun fact **I love a good laugh! I am a guitar player and I am learning photography.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
