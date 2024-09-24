@@ -3,6 +3,5 @@
 
 - 📫 How to reach me **mthunzi.makabongwe@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/makabongwenkabinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
